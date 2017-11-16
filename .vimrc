@@ -82,6 +82,8 @@ set ignorecase
 "set novisualbell
 "set t_vb=
 "set tm=500
+" 开启鼠标模式
+set mouse=a
 
 colorscheme  molokai
 let g:rehash256 = 1
